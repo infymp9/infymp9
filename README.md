@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, GCP, Kubernetes and Terraform**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Vishnu2707?tab=repositories](https://github.com/Vishnu2707?tab=repositories](https://github.com/infymp9?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/infymp9?tab=repositories)
 
 - 💬 Ask me about **Azure, AWS ,Linux**
 
