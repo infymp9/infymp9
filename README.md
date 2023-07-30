@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Docker, GCP, Kubernetes and Terraform**
 
-- 👨‍💻 All of my projects are available at (https://github.com/infymp9?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/infymp9?tab=repositories)
 
 - 💬 Ask me about **Azure, AWS ,Linux**
 
 - 📫 How to reach me **infymp9@gmail.com**
 
-- 📄 Know about my experiences [https://ajithv-portfolio.web.app/](https://ajithv-portfolio.web.app/)
+- 📄 Know about my experiences [Click Here to look at my Portfolio](https://infymp9.github.io/Manoj-Portfolio/public)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
